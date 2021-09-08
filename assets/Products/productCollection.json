@@ -1,0 +1,91 @@
+
+    [
+    {
+      "id": 1,
+      "name": "Casual Shirts",
+      "image": ["../assets/Images/latestfancyshirts.jpg"],
+      "price": 200,
+      "description": "An authentic upgrade to your everyday wardrobe, this casual shirt is designed with bold checks, spread collar, patch pocket and full sleeves."
+    },
+    {
+      "id": 2,
+      "name": "Jeans",
+      "image": ["../assets/Images/Jeans.jpg"],
+      "price": 500,
+      "description": "Levi‘s Men’s 511 Slim Fit Jeans. You wear jeans. You live in Levi‘s. Levi‘s 511 jeans feature a slim fit with a slim leg opening to help provide a modern comfortable look and are a great alternative to skinny jeans. Comfortable, stretchy and durable materials make for a flexible and stylish pair of jeans: feel good, look good and enjoy the iconic comfort of Levi's"
+    },
+    {
+      "id": 3,
+      "name": "T-Shirt",
+      "image": ["../assets/Images/tshirt.jpeg"],
+      "price": 100,
+      "description": "SOLID HALF SLEEVE GRAPHIC TEE T-SHIRT"
+    },
+    {
+      "id": 4,
+      "name": "Women Top",
+      "image": ["https://i.pinimg.com/236x/36/9f/4c/369f4c4013e19c9b3c671de3dc696d2b.jpg"],
+      "price": 300
+    },
+    {
+      "id": 5,
+      "name": "Festive Deer",
+      "image": ["https://cdn140.picsart.com/268948212025211.png?r1024x1024"],
+      "price": 400
+    },
+    {
+      "id": 6,
+      "name": "Blazers",
+      "image": ["../assets/Images/Blazers.jpg"],
+      "price":5200
+    },
+    {
+      "id": 7,
+      "name": "Joggers",
+      "image": ["../assets/Images/Joggers.jpg"],
+      "price": 2000
+    },
+    {
+      "id": 8,
+      "name": "Shoes",
+      "image": ["http://pngimg.com/uploads/running_shoes/running_shoes_PNG5827.png"],
+      "price": 2000
+    },
+    {
+      "id": 9,
+      "name": "Jackets",
+      "image": ["../assets/Images/Jackets.jpg"],
+      "price": 3500
+    },
+    {
+      "id": 10,
+      "name": "Mens Cargo",
+      "image": ["../assets/Images/MensCargo.jpeg"],
+      "price": 2900
+    },
+    {
+      "id": 11,
+      "name": "Sneakers",
+      "image": ["http://pluspng.com/img-png/shoes-png-sneaker-png-transparent-image-2500.png"],
+      "price": 1200
+    },
+    {
+      "id": 12,
+      "name": "Trouser",
+      "image": ["../assets/Images/Trouser.jpg"],
+      "price": 900
+    },
+    {
+      "id": 13,
+      "name": "Tops",
+      "image": ["../assets/Images/Tops.jpeg"],
+      "price": 2900
+    },
+    {
+      "id": 14,
+      "name": "Sweater",
+      "image": ["../assets/Images/Sweater.jpeg"],
+      "price": 400
+    }
+    
+  ]
